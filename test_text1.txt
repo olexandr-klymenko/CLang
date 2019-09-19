@@ -1,5 +1,5 @@
 abcdef
 0123456789
-ABCDEFGH
-line with tabs: 123	abcde	QWER	098765	zxcvbnm
+ABCDEFGH89
+line with tabs: 123 abcde   QWER    098765  zxcvbnm
 line wout tabs: 123 abcde   QWER    098765  zxcvbnm
